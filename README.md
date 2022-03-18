@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pedrote-EO
-- 👀 I’m interested in Earth Observation, SAR, forest biomass
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Earth Observation, SAR, forest biomass dynamics
 - 💞️ I’m looking to collaborate on remote sensing algorithms for forest monitoring
 - 📫 How to reach me -> twiteer: @pedro_biomass
 
